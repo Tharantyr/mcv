@@ -1,0 +1,3 @@
+﻿  main.cpp
+h:\documents\universiteit\computer vision\template\src\main.cpp(321): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  OpenCVTemplate.vcxproj -> H:\Documents\Universiteit\Computer Vision\template\x64\Debug\OpenCVTemplate.exe
